@@ -1,6 +1,6 @@
-# S3-OOPS-in-JAVA-LAB_SJCET_23-27
-# KSL 203
-# SYLLABUS - 20119 KTU SCHEME
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bodoni+Moda+SC&size=30&pause=1000&width=435&lines=S3-OOPS-in-JAVA-LAB_SJCET_23-27;KTU+KSL+203;SYLLABUS+-+2019+KTU+SCHEME)](https://git.io/typing-svg)
+
+
 The syllabus contains six sessions (A, B, C, D, E, F). Each session consists of three concrete
 Java exercises, out of which at least two questions are mandatory.
 (A) Basic programs using datatypes, operators, and control statements in Java.
