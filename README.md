@@ -12,3 +12,4 @@ Cycle 1
 Cycle 2
 1. Interface [ 23/08/2024 ]
 2. Exception Handling in JAVA (Arithmetic Exception) [ 25/09/2024 ]
+3. Custom Exception [ 25/09/2024 ]
